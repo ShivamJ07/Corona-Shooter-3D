@@ -1,2 +1,3 @@
 # Corona Shooter 3D
  
+Corona Shooter 3D is my final project for the 2020 CS50 Introduction to Game Devlopment course by HarvardX. It is a 3D First-Person shooter built using the unity game engine. The player must traverse a desolate and eerie world that was procedurally generated to find the cure for a deadly virus. While doing so, they must fend off AI controlled zombies that begin to track the user if they get too close. If the user finds the cure, they win the game. Conversely, if they get infected by the zombies, they lose. More details about the course can be found [here](https://cs50.harvard.edu/games/2018/) and a video demoing the game can be found [here]()  
